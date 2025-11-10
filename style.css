@@ -34,7 +34,7 @@ p {
 }
 
 .botton {
-    border:5px;
+    border: 5px;
     border-radius: 10px;
     background-color: antiquewhite;
     padding: 5px;
@@ -57,11 +57,13 @@ p {
 .box2 {
     background-size: contain;
 }
-.testo{color: black;}
+
+.testo {
+    color: black;
+}
 
 .box3 {
-    width: 20%
-    ;
+    width: 20%;
 }
 
 .content3 {
@@ -74,70 +76,68 @@ p {
 
 .box4 {
     width: 20%;
-    }
+}
 
-  
+
 
 
 .content4 {
-    display: flex; 
+    display: flex;
     background-color: white;
     justify-content: center;
     align-items: center;
 }
-.box7{width: 20%;}
-.nero{color: black;}   
+
+.box7 {
+    width: 20%;
+}
+
+.nero {
+    color: black;
+}
 
 .content5 {
     background-color: grey;
     width: 100%;
     justify-content: center;
-    align-items: center;text-align: center;
+    align-items: center;
+    text-align: center;
 }
 
 .box8 {
-  margin: auto;
-  width: 70%;
-    
-    
+    margin: auto;
+    width: 70%;
+
+
 }
 
 .content6 {
-    display: flex;
-    background-color: black;
-    width: 100%;
-    height: 400px;
-    justify-content: center;
-    align-items: center;
+    background-color: white;
+
 }
 
 .box9 {
-    width: 8%;
-    height: 350px;
-    background-color: aqua;
+    text-align: center;
+    background-image: url(stars.svg);
 }
 
 .box10 {
-    width: 30%;
-    height: 350px;
-    ;
-    background-color: orange;
-    justify-content: centeR
+    text-align: center;
+    background-color: white;
+
 }
 
 .footer {
     background-color: black;
     width: 100%;
-    height: 100%;
-    justify-content: space-between;
+    
 }
 
-.logo2 {
+.logo2,.sezione-2 {
     display: flex;
     justify-content: center;
     flex-direction: column;
     width: 60%;
-    background-color: orange;
+    color: antiquewhite;
     margin: auto;
-    align-items: center;
 }
