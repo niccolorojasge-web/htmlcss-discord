@@ -130,6 +130,8 @@ p {
 .footer {
     background-color: black;
     width: 100%;
+
+.container-footer{ display: flex;}
     
 }
 
